@@ -9,7 +9,7 @@ cd Shu
 pip3 install -r requirements.txt
 ```
 
-bu komutları kullanarak programı indirip kurduktan sonra `python3 shu.py --help` komutunu kullanarak programı nasıl çalıştırabileceğinizi öğrenebilirsiniz.
+Bu komutları kullanarak programı indirip kurduktan sonra `python3 shu.py --help` komutunu kullanarak programı nasıl çalıştırabileceğinizi öğrenebilirsiniz.
 
 ![4](https://github.com/Narisca/Shu/assets/165813191/0efbd39a-d976-461d-ba17-b329aa65b53f)
 
