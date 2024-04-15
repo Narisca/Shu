@@ -27,7 +27,7 @@ python3 shu.py --target http://10.10.236.255/wp-login.php --username elliot --pa
 
 ```
 --target-url,  -t    : Hedef sitenin giriş sayfasını belirtmenizi sağlar.
---plugins,     -x    : Hedef sitenin içerik yönetim sistemini belirtmenizi sağlar..
+--plugin,      -x    : Hedef sitenin içerik yönetim sistemini belirtmenizi sağlar..
 --username,    -u    : Kullanıcı adını belirtmenizi sağlar.
 --password,    -p    : Kullanıcı şifresini belirtmenizi sağlar.
 --local-host,  -L    : Yerel ağ adresinizi belirtmenizi sağlar.
