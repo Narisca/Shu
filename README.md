@@ -4,7 +4,7 @@ Shu, hazır içerik yönetim sistemlerinin zayıflıklarından yararlanarak reve
 ## Programın indirilmesi ve kurulması
 
 ```
-git clone https://github.com/Narisca/Shu/
+git clone https://github.com/harveyspc/Shu/
 cd Shu
 pip3 install -r requirements.txt
 ```
